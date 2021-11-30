@@ -10,6 +10,7 @@
 @import url('components/container.css');
 @import url('components/footer.css');
 @import url('components/card.css');
+@import url('components/form.css');
 
 /* Utilities */
 body {
